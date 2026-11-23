@@ -1,0 +1,14 @@
+{
+  "name": "daymark-ielts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daymark — a straightforward IELTS practice app with reading, writing, speaking, grammar, listening, mistakes and vocabulary review.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  }
+}
